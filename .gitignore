@@ -1,0 +1,5 @@
+# do not commit any .bak files
+*.bak
+
+# hide any ds_store macOS files
+*.DS_Store
